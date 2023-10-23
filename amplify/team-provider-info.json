@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "sampleapp2d7587a0": {}
+      },
+      "api": {
+        "sampleapp": {}
       }
     }
   }
